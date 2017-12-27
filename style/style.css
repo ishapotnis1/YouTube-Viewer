@@ -1,0 +1,34 @@
+/*
+* @Author: Isha Potnis
+* @Date:   2017-09-29 20:25:41
+* @Last Modified by:   Isha Potnis
+* @Last Modified time: 2017-12-27 15:46:19
+*/
+
+.search-bar {
+	margin: 20px;
+	text-align: center; 
+}
+
+.search-bar input {
+	width: 75%;
+}
+
+.video-item img {
+	max-width: 64px;
+}
+
+.video-detail .details{
+	margin-top: 10px;
+	padding: 10px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+.list-group-item {
+	cursor: pointer;
+}
+
+.list-group-item:hover{
+	background-color: #eee;
+}
